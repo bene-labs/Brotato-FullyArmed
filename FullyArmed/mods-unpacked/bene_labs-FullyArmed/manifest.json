@@ -3,7 +3,7 @@
 	"namespace": "bene_labs",
 	"version_number": "1.0.0",
 	"description": "Adds a new character with 30 arms but no damage.",
-	"website_url": "",
+	"website_url": "https://github.com/bene-labs/Brotato-FullyArmed",
 	"dependencies": [
 		"Darkly77-Brotils",
 		"Darkly77-ContentLoader"
