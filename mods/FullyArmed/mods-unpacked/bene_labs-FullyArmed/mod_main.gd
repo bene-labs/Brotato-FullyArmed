@@ -5,7 +5,7 @@ const TESTMOD_LOG = "bene_labs-FullyArmed"
 
 var dir = ""
 
-func _init(modLoader = ModLoader):
+func _init():
 	ModLoaderUtils.log_info("Init", TESTMOD_LOG)
 	dir = ModLoaderMod.get_unpacked_dir() + MOD_DIR
 
