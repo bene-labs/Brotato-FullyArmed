@@ -1,0 +1,17 @@
+{
+	"name": "FullyArmed",
+	"namespace": "bene_labs",
+	"version_number": "1.0.0",
+	"description": "Adds a new character with 30 arms but no damage.",
+	"website_url": "https://github.com/BrotatoMods",
+	"dependencies": ["Darkly77-ContentLoader"],
+	"extra": {
+		"godot": {
+			"incompatibilities": [],
+			"authors": ["bene_labs"],
+			"compatible_mod_loader_version": "3.0.0",
+			"compatible_game_version": ["0.6.1.6"],
+			"config_defaults": {}
+		}
+	}
+}

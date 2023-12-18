@@ -1,0 +1,19 @@
+[gd_resource type="Resource" load_steps=3 format=2]
+
+[ext_resource path="res://mods-unpacked/bene_labs-FullyArmed/content/characters/fully_armed/fully_armed_data.tres" type="Resource" id=1]
+[ext_resource path="res://mods-unpacked/Darkly77-ContentLoader/content_data.gd" type="Script" id=2]
+
+[resource]
+script = ExtResource( 2 )
+characters = [ ExtResource( 1 ) ]
+items = [  ]
+weapons = [  ]
+weapons_characters = [  ]
+sets = [  ]
+challenges = [  ]
+upgrades = [  ]
+consumables = [  ]
+elites = [  ]
+difficulties = [  ]
+debug_items = [  ]
+debug_weapons = [  ]

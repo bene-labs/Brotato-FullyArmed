@@ -1,0 +1,16 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+
+[deps]
+
+files=[ "res://mods-unpacked/bene_labs-FullyArmed/translations/fully_armed_text.en.translation", "res://mods-unpacked/bene_labs-FullyArmed/translations/fully_armed_text.de.translation" ]
+
+source_file="res://mods-unpacked/bene_labs-FullyArmed/translations/fully_armed_text.csv"
+dest_files=[ "res://mods-unpacked/bene_labs-FullyArmed/translations/fully_armed_text.en.translation", "res://mods-unpacked/bene_labs-FullyArmed/translations/fully_armed_text.de.translation" ]
+
+[params]
+
+compress=true
+delimiter=0
